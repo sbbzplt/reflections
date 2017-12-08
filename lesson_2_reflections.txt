@@ -1,0 +1,16 @@
+Reflection#1 @L2E5:
+	What happens when you initialize a repository? Why do you need to do it?
+	Git creates an empty repo and a file named ".git/"
+	Because otherwise I would not have a repo to commit.
+
+
+Reflection#2 @L2E8:
+	How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It is not working directory. because the files in staging area are in a different position then not-added files.
+	It is not repository. Because the files in staging area have not commited yet.
+	It offers a way to create logically-meaningful and rich repository at the creation level of that repository. Say I forget to create the repo at the beginning of the project. I may create the repo whenever I want and yet I have a chance to make logically-meaningful and beautiful commits.
+
+
+
+
+

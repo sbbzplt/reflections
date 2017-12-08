@@ -17,3 +17,13 @@ Reflection#3 @L2E13:
 	I may have done more than one logical change. With staging area I can split these changes into logival sub-groups and decide which one goes first, second ... etc.
 
 
+Reflection#4 @L2E16:
+	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	* Some experimental changes
+	* Some break-through but maybe-dangereus ideas
+	* Some ideas come o my mind that I've not mentioned to my collieges and prefer to keep myself until I could be sure about it to work out smoothly...
+	
+	
+	
+	
+	

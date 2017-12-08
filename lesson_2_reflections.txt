@@ -12,5 +12,8 @@ Reflection#2 @L2E8:
 
 
 
+Reflection#3 @L2E13:
+	How can you use the staging area to make sure you have one commit per logical change?
+	I may have done more than one logical change. With staging area I can split these changes into logival sub-groups and decide which one goes first, second ... etc.
 
 

@@ -23,7 +23,30 @@ Reflection#4 @L2E16:
 	* Some break-through but maybe-dangereus ideas
 	* Some ideas come o my mind that I've not mentioned to my collieges and prefer to keep myself until I could be sure about it to work out smoothly...
 	
+Reflection#5 @L2E21:
+	How do the diagrams help you visualize the branch structure?
+	They are eye-candy. It is easier to understand the structure with a visual graph.
 	
 	
-	
-	
+Reflection#6 @L2E26:
+	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	* Different lines of history became linearly connected.
+	* Parental status remains unchanged.
+	* Now we definitely need to use "$git show id_of_commit" command, since we cannot effectively determine who is parent of whom.
+        We represent it in the diagram to make it easier to see and understand the whole process.
+
+        
+Reflection#7 @L2E33:
+	What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	* Automatic Merging
+	    Pros:
+	    * Practical
+	    Cons:
+	    * May do something wrong out of your control
+
+	* Manual Merging
+	    Pros:
+	    * More control chance
+	    Cons:
+	    * Inpractical
+

@@ -6,4 +6,11 @@ Reflection #1 @L3P7:
 	* 
 
 Reflection #1 @L3P7:
-	
+
+
+
+
+Reflection #3 @L3P10:
+	Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	Otherwise git would not have any differences from Drive or Dropbox at all.
+

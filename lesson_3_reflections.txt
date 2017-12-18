@@ -23,4 +23,9 @@ Reflection #4 @L3P14:
 	If repo is on github and I'm a collaborator of it, then I clone it.
 	If I want to make a major change on a project, then regardless of its position I branch it.
 
+Reflection #5 @l3p22:
+	What is the benefit of having a copy of the last known state of the remote stored locally?
+	You can work on the project knowing that you are moving ahead of the remote copy. Thus you know that you should check the diff on remote before you push.
+
+
 

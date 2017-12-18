@@ -14,3 +14,13 @@ Reflection #3 @L3P10:
 	Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	Otherwise git would not have any differences from Drive or Dropbox at all.
 
+Reflection #4 @L3P14:
+	Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	clone downloads a repo to one's local.
+	fork works on github-only and creates a copy of another's github-repo to one's account.
+	branch works totally different. It creates a parallel highway to work.
+	If repo is on github and I'm NOT a collaborator of it, then I fork it.
+	If repo is on github and I'm a collaborator of it, then I clone it.
+	If I want to make a major change on a project, then regardless of its position I branch it.
+
+

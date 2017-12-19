@@ -28,4 +28,8 @@ Reflection #5 @l3p22:
 	You can work on the project knowing that you are moving ahead of the remote copy. Thus you know that you should check the diff on remote before you push.
 
 
+Reflection #6 @l3p25:
+	How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I may use emailing and giving appropriate file names includes branches and short commit notes. But that would be a terrible idea. Because nothing would be easier and evaluating changes and progress on the project would be really hard.
+
 

@@ -33,3 +33,9 @@ Reflection #6 @l3p25:
 	I may use emailing and giving appropriate file names includes branches and short commit notes. But that would be a terrible idea. Because nothing would be easier and evaluating changes and progress on the project would be really hard.
 
 
+Reflection #7 @l3p31:
+	When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	When I have different collaborators I make changes in a seperate branch. This way I can pull request so everybody on the project can check my changes and accept them if everything is allright. This way I give headsup to everybody, basicly say that "Hey guys! I've changed something here. Come and check".
+	But if I work alone than I would make changes on same branch, unless I want to go for a major change. This way, since I don't have any other person to worry about missing the recent updates, I can work quickly.
+
+
